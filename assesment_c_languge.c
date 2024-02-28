@@ -24,7 +24,7 @@ int main()
         for (j=0;j<2;j++)
         {
             printf("\n enter second matrix element:");
-            scanf("%d",&a2[k][j]);
+            scanf("%d",&a2[i][j]);
         }
      	 printf("\n"); 
   
